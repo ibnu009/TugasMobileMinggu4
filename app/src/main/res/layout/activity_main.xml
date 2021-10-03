@@ -7,12 +7,14 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--  Untuk Tugas Selection widget AutoCompleteTextView  -->
     <AutoCompleteTextView
         android:id="@+id/auto_complete_movie"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:completionThreshold="2" />
 
+<!--  Untuk tugas selection widget ListView, namun saya ganti dengan Recyclerview  -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_movie"
         android:layout_width="match_parent"
