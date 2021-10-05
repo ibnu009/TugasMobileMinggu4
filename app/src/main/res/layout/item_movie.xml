@@ -15,7 +15,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"/>
 
-<!--  Untuk tugas Selection Widget Spinner, yang dimana
+    <!--  Untuk tugas Selection Widget Spinner, yang dimana
   dia mengambil data entries nya dari array string bernama actions  -->
 
     <Spinner
